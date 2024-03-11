@@ -1,0 +1,22 @@
+[
+    {
+        "user": "Ada",
+        "permiso": "Admin"
+    },
+    {
+        "user": "Greta",
+        "permiso": "Admin"
+    },
+    {
+        "user": "vin",
+        "permiso": "Admin"
+    },
+    {
+        "user": "Lazaro",
+        "permiso": "Regular"
+    },
+    {
+        "user": "Andres",
+        "permiso": "Regular"
+    }
+]
